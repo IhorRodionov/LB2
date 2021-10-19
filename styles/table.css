@@ -1,0 +1,22 @@
+.info-about-me{
+    margin-left: 60px;
+    border-collapse: collapse;
+    padding-right: 100px;
+    width: 40%;
+}
+tbody tr{
+    font-size: 14px;
+}
+tbody tr:nth-child(odd) {
+    background-color: #06614D;
+    color: #bbddc2;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #bbddc2;
+    color: black;
+  }
+  
+th, td {
+    padding: 10px;    
+}

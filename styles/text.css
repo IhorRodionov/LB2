@@ -1,0 +1,22 @@
+p{
+    font-family: 'Roboto Slab', serif;
+    font-size: 18px;
+}
+
+h1{
+    text-align: center;
+    color: #06614D;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 900;
+}
+h2{
+    text-align: center;
+    color: #06614D;
+    padding-top: 5px;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 900;
+}
+.school-start{
+    text-align: center;
+    color: #06614D;
+}
